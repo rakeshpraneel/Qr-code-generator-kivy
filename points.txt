@@ -1,0 +1,2 @@
+on_press: value can be mapped to a function or a class defined in the main python file
+ or a widget defined in that same py file.
